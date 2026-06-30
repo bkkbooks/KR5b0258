@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0258/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5b0258/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 靈寶淨明院教師周真公起請畫一
+  date: '2015-08-29 00:15:22.288614'
+  source:
+    repository: kanripo
+    path: KR5b0258
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0258_000-ZTDZ.yaml, hash: 'sha256:bea70ef9682eed8096550fd0982e4094ddd3efaca5fb8f7c5058dc6a9ddffc95'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0258_000-ZTDZ.markers.yaml, hash: 'sha256:8f346f5a080773a6c88aa74e31a388eb232c94360db0e2bf42ac1ff5e4dea4f9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0258_SJB_000-100496b
+    span:
+    - body
+    - 0
+    - 2384
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:aec93868f5420343c6ebb6feb1a66f3d2572dbd0ad8977e9f28609e5101688a0
