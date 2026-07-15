@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR5b0258/v1
 canonical_location: https://kanripo.org/bkk/KR5b0258/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 靈寶淨明院教師周真公起請畫一
   identifiers:
@@ -32,9 +32,9 @@ editions:
 - short: SJB
 assets:
   parts:
-  - {seq: 0, filename: KR5b0258_000.yaml, hash: 'sha256:068ffe900e694ce7ef95780013722e68549a9b33bd98fb98fd3dd58cc215c542'}
+  - {seq: 0, filename: KR5b0258_000.yaml, hash: 'sha256:91850da773e9ad8bc1fcaccf98a32413311a352bb4051c881d43a80f4ca2908a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0258_000.markers.yaml, hash: 'sha256:ce5ae39115d77f1baf867b25fe2eeb39f900b8a9e33339a8a7420507bdff904e'}
+  - {seq: 0, role: markers, filename: assets/KR5b0258_000.markers.yaml, hash: 'sha256:e972a7608e7155e6557590459bfad46b58b3448ac288cad65dccb1cfdb08bb05'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,4 +46,7 @@ table_of_contents:
   label: juan 000
   type: section
   level: 1
-hash: sha256:46b4025e1dc0644cfcff85cbeddfdaa7a9221353d6b0603997e088b72468431f
+hash: sha256:83833916f9219f1f30a0da5ca3aaac3a1e26c561511e2568ebf8f09ca9bdba8e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
